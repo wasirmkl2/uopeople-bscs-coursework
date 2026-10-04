@@ -547,3 +547,49 @@ post, or peer reply.**
 - **Do this check as a required step before presenting any `.docx` as finished**, the same
   way word count and citation matching are checked in Section 5 — not only when the student
   specifically asks about it.
+
+## Research Review / Source-Synthesis Assignments — lessons from instructor feedback
+**Scope: narrow — applies to assignments that ask for summaries of a fixed set of
+previously selected sources plus a synthesis, research gap, and proposed study (e.g., the
+ENGL 1102-01 Unit 3 literature-review assignment built on the five Unit 2 sources).**
+
+- **Real instructor feedback, ENGL 1102-01 Unit 3 assignment (both students scored 100/100,
+  with a refinement note on the same point):** each student introduced one extra source
+  beyond the five required ones (a university-library guide in one case, a research-methods
+  textbook in the other). The instructor flagged that the extra source was not one of the
+  five sources being summarized, and said it should either be used only as supporting
+  methodology (if permitted) or be removed from the five-source discussion. Because the same
+  flag appeared on two independent drafts, treat it as a predictable trap, not a one-off.
+- **Keep the required source set closed.** The five required sources are the only ones that
+  get a full summary, a direct quotation, a paraphrase, and a place in the synthesis and gap
+  argument. Do not bring in an additional source inside the gap discussion or synthesis as
+  if it were part of that set.
+- **If an extra source is used at all, confine it to the proposed-methodology section and
+  label its role explicitly** (e.g., "to justify the measure/design," not "evidence that
+  shows..."). Before presenting the draft, check that the extra source does not appear in
+  the summaries, the synthesis, or the research-gap argument, and that the assignment
+  instructions actually permit extra references. If the instructions are silent or unclear,
+  ask the student whether to keep it or cut it; the safer default is to remove it.
+- **Each required source summary must contain both a direct quotation and a paraphrase.**
+  Verify this source by source before presenting the draft (this was done correctly in both
+  submissions and earned explicit credit — keep doing it).
+- **Synthesis should be analytical, not a stack of summaries.** Strong patterns the
+  instructor praised: comparing different evidence types against each other (experimental,
+  observational, quasi-experimental, meta-analytic, survey, ethnographic, comparative)
+  instead of treating sources as isolated; stating what each source actually demonstrates
+  versus what it cannot establish; and showing where the sources converge and where they
+  leave the hypothesis unanswered.
+- **Discuss methodological differences and how they affect the strength of the evidence.**
+  The one improvement suggested for the synthesis was to be more critical about
+  methodology, e.g., explain how ethnography, surveys, quasi-experimental work, and
+  comparative research differ in what they can support (depth and context vs. breadth vs.
+  causal inference vs. generalizability), and weigh the sources' conclusions accordingly.
+  Build this into the first draft of the synthesis rather than waiting for the note.
+- **The research gap and proposal should follow directly from the synthesis.** Name the gap
+  precisely (what no reviewed study directly compares, and under what conditions), and make
+  the proposed study specific and concrete (a named measure, timing, and comparison, such as
+  a semester-end concept check) so it clearly targets that gap. Vague "future research
+  could look at..." proposals score worse than a specific, testable design.
+- **Keep APA in-text citations and references tightly connected to the sources**, and run
+  the usual Section 1 and Section 10 orphan check (every citation matches one reference and
+  vice versa) before presenting the draft.
