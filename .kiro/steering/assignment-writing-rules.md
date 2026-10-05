@@ -504,6 +504,14 @@ post, or peer reply.**
   entirely. The deflection in Section 6 ("no one can predict a detector's numeric score")
   applies only to guessing what a specific AI-detection tool would output; it does not excuse
   skipping a genuine, specific read of whether the prose itself sounds natural.
+- **After every fix, refinement, or round of review, always paste the complete final post
+  (or assignment) in the chat reply, every time.** Do this even when only one sentence
+  changed, even when the file is already saved in the repo, and even when the student's
+  question was really about an outside review. Never reply with only a diff, a changed
+  paragraph, or "everything else is unchanged" — the student copies the post straight from
+  the chat and needs the whole, current text, including the reference list. Put the full
+  final text in the reply after summarizing what changed and why, together with the
+  verification results (word count, citation match).
 
 ## 14. Vocabulary Highlighting
 **Scope: universal, but the situation it addresses is currently mostly relevant to UNIV
