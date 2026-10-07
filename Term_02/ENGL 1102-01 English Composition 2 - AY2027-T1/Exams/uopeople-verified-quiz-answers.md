@@ -791,3 +791,139 @@ Descriptions: a. Can you achieve the goal with available resources? b. Is the go
      text, not a remembered answer string (see Q2 vs. Unit 1 Q2).
   2. **Weight-loss goal with numbers → Measurable**, even though a deadline is also mentioned.
   3. **"Not always mandatory" problem-statement evidence → False.** Watch the double negative.
+
+
+---
+
+## Unit 5
+
+Two self-quiz sets (5 questions each). All 10 answers CONFIRMED CORRECT. *Sourcing note: these
+were answered from standard definitions (persuasive writing, ethos/pathos/logos, sampling
+techniques, qualitative vs. quantitative research, research questions). The Unit 5 readings
+were not re-checked line by line.*
+
+### Set 1
+
+**1. What is the primary purpose of a persuasive message?**
+- To establish the credibility of the sender only.
+- To entertain the audience without offering any solution.
+- To inform the audience about the facts only.
+- To intrigue, inform, convince, or call the audience to action.
+
+**Answer: To intrigue, inform, convince, or call the audience to action.** — CONFIRMED CORRECT
+*The other options are too narrow (credibility only, entertainment only, facts only).*
+
+---
+
+**2. Hetet is writing a persuasive essay advocating for renewable energy. He decides to acknowledge the opposing view that renewable energy sources can be expensive initially. What is the benefit of addressing this opposing view early in his essay?**
+- It allows him to dismiss the opposing view quickly.
+- It weakens his argument by highlighting potential flaws.
+- It avoids the need to provide supporting evidence.
+- It builds credibility with the audience by showing awareness of differing opinions.
+
+**Answer: It builds credibility with the audience by showing awareness of differing opinions.** — CONFIRMED CORRECT
+*Acknowledging the counterargument shows fairness and sets up a rebuttal with evidence.*
+
+---
+
+**3. Which of the following sampling techniques ensures that every member of a population has an equal chance of being selected?**
+- Cluster sampling.
+- Stratified sampling.
+- Systematic sampling.
+- Simple random sampling.
+
+**Answer: Simple random sampling.** — CONFIRMED CORRECT
+*Cluster, stratified, and systematic sampling all follow a structure, so not every member has the same chance.*
+
+---
+
+**4. Which of the following is an example of qualitative research?**
+- Interviews with families to explore their experiences of coping with teenage suicide, followed by thematic analysis.
+- An experiment testing the effects of sleep deprivation on memory recall.
+- A study analyzing the relationship between caffeine consumption and exam scores using statistical techniques.
+- A survey measuring the percentage of college students who exercise regularly.
+
+**Answer: Interviews with families to explore their experiences of coping with teenage suicide, followed by thematic analysis.** — CONFIRMED CORRECT
+*Non-numerical data (experiences) analyzed for themes. The other three measure numerical variables, so they are quantitative.*
+
+---
+
+**5. Which of the following is a key characteristic of quantitative research?**
+- It involves numerical data and statistical analysis.
+- It focuses on exploring subjective experiences.
+- It is primarily used for studying small specific populations.
+- It prioritizes open-ended questions and themes.
+
+**Answer: It involves numerical data and statistical analysis.** — CONFIRMED CORRECT
+*The other three options describe qualitative research.*
+
+---
+
+### Set 2
+
+**1. Which of the following best describes a good research question?**
+- It is simple and can be answered with a yes or no.
+- It is specific, clear, concise, complex, and arguable.
+- It is broad enough to cover multiple disciplines.
+- It provides a definitive and conclusive answer.
+
+**Answer: It is specific, clear, concise, complex, and arguable.** — CONFIRMED CORRECT
+*A good research question is not a yes/no question, is focused rather than broad, and is open to debate rather than conclusively answerable.*
+
+---
+
+**2. What is the potential drawback of overusing "I" in persuasive writing?**
+- It improves the tone of the essay.
+- It shifts focus away from the topic.
+- It strengthens the argument's authority.
+- It makes the argument more formal.
+
+**Answer: It shifts focus away from the topic.** — CONFIRMED CORRECT
+*Too many "I" statements make the writing about the writer instead of the issue and weaken objectivity.*
+
+---
+
+**3. What is the key difference between qualitative and quantitative research?**
+- Qualitative research aims for general conclusions, while quantitative research provides detailed descriptions.
+- Qualitative research explores in-depth information from fewer people, while quantitative research examines broader patterns across larger samples.
+- Qualitative research focuses on numerical data, while quantitative research uses non-numerical data.
+- Qualitative research starts with specific hypotheses, while quantitative research begins with a broad question.
+
+**Answer: Qualitative research explores in-depth information from fewer people, while quantitative research examines broader patterns across larger samples.** — CONFIRMED CORRECT
+*Two of the other options simply reverse the definitions (general vs. detailed; numerical vs. non-numerical), and the fourth reverses hypothesis-driven vs. exploratory.*
+
+---
+
+**4. State whether the following statement is true or false: The primary purpose of persuasive writing is to present personal opinions without the need for supporting evidence.**
+- True
+- False
+
+**Answer: False** — CONFIRMED CORRECT
+*Persuasive writing needs credible evidence (facts, examples, expert support) to back its claims.*
+
+---
+
+**5. What does pathos refer to in persuasive writing?**
+- Demonstrating the writer's expertise and knowledge.
+- Using facts and data to support the argument.
+- Ensuring the message is delivered at the right time.
+- Appealing to the reader's emotions and values.
+
+**Answer: Appealing to the reader's emotions and values.** — CONFIRMED CORRECT
+*Pathos = emotion. The distractors describe ethos (credibility/expertise), logos (facts and data), and kairos (timing).*
+
+---
+
+## Unit 5 — running notes
+
+- **Self-quizzes: 2 sets, 10/10 confirmed correct.**
+- New Unit 5 topics: persuasive writing (purpose, counterarguments, ethos/pathos/logos/kairos,
+  overusing "I"), sampling techniques, qualitative vs. quantitative research, and what makes a
+  good research question.
+- **Traps to carry forward:**
+  1. **Rhetorical appeals are tested by definition match:** ethos = credibility/expertise,
+     pathos = emotions and values, logos = facts and data, kairos = timing.
+  2. **Qualitative vs. quantitative distractors usually just swap the definitions** (numerical
+     vs. non-numerical, small in-depth vs. large broad). Check which side each descriptor
+     belongs to before choosing.
+  3. **"Without the need for supporting evidence" about persuasive writing → False.**
