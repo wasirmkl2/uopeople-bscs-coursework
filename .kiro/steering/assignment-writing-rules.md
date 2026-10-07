@@ -70,6 +70,19 @@ tone, formatting, or citations come into play.
     italicizing "Structured programming" (the chapter) instead of "Programming
     fundamentals: A modular structured approach using C++" (the book) for a Busbee &
     Braunschweig (2018) reference.
+  - **Books accessed through the UoPeople library (LIRN / ProQuest Ebook Central) are cited
+    as a whole book, with no chapter title and no URL.** Confirmed directly by the student as
+    the proper APA format for this case, and it **overrides** the chapter-citation bullet
+    above and the clickable-link requirement below *for these sources only*. Use the shape
+    `Author, A. A., & Author, B. B. (Year). *Book title : Subtitle*. Publisher.` with only the
+    book title italicized, exactly as the library's citation tool produces it. Confirmed
+    correct examples: `Parker, J. R. (2021). *Python. an introduction to programming*.
+    Mercury Learning & Information.` and `Mohbey, K. K., & Acharya, M. (2023). *Basics of
+    python programming : A quick guide for beginners*. Bentham Science Publishers.` Do not
+    add a chapter title, do not add the ProQuest permalink, and do not re-capitalize or
+    re-space the library tool's title text (e.g., the lowercase "an introduction" or the
+    space before the colon). Web pages, videos, and documentation that are not
+    library-database books still need their full clickable URL.
   - **When more than one source is cited in the same parenthetical in-text citation, order
     them alphabetically by the same key used in the reference list** (first author's
     surname, or the organization/source name for group-authored sources like a YouTube
