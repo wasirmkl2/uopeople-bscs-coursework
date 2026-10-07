@@ -118,3 +118,24 @@ All 5/5 confirmed correct. Key reasoning:
 - **No `return`** → function implicitly returns `None` (verified: `def f(): pass; print(f())` → `None`). Not `0`, not an error.
 - **`lambda`** creates an anonymous single-expression function; `x(2, 3)` evaluates `2 + 3` → `5` (numeric addition, not string concatenation `"23"`).
 - **`*args`** collects extra positional arguments into a tuple; **`**kwargs`** collects extra keyword arguments into a dict. `#` = comment, `%` = modulo, `&` = bitwise AND (distractors).
+
+
+## Attempt 6 — Unit 5 self-quiz: lists & tuples (5 q)
+
+**Score: 5/5 — all CONFIRMED CORRECT by user.**
+
+| # | Question (topic) | Answer given | Result |
+|---|---|---|---|
+| 1 | In `nums = [10,20,30,40,50]`, what is `nums[2]`? (10 / 20 / 30 / 40) | 30 | CONFIRMED CORRECT |
+| 2 | Result of `fruits = ['apple','banana']; fruits.insert(1,'mango')` | `['apple','mango','banana']` | CONFIRMED CORRECT |
+| 3 | How to access the first element of `t = ('x','y','z')`? (`t(0)` / `t[0]` / `t{0}` / `t.0`) | `t[0]` | CONFIRMED CORRECT |
+| 4 | Which operation will cause an error? (`t = (1,2,3); t[1]=4` / `len(t)` / `t[0]` / `t+(4,5)`) | `t = (1,2,3); t[1]=4` | CONFIRMED CORRECT |
+| 5 | Process of assigning multiple values to a tuple at once is called ____ (packing / unpacking / grouping / stacking) | packing | CONFIRMED CORRECT |
+
+### Key reasoning / reusable notes
+
+- **Indexing starts at 0:** `nums[2]` is the third element (`30`). Verified by execution.
+- **`list.insert(i, x)`** puts `x` at index `i` and shifts later elements right (does not replace). Verified: `['apple', 'mango', 'banana']`.
+- **Tuple indexing uses square brackets** — `t[0]`. Round brackets would be a call, curly braces a syntax error, `t.0` invalid.
+- **Tuples are immutable:** item assignment raises `TypeError: 'tuple' object does not support item assignment`. `len(t)`, `t[0]`, and `t + (4,5)` (builds a *new* tuple `(1, 2, 3, 4, 5)`) all work.
+- **Packing vs unpacking (Q5 trap):** *packing* = putting several values INTO a tuple (`atoms = ("Hydrogen", 1, "Helium", 2)`); *unpacking* = pulling a tuple's values OUT into separate variables (`a, b, c = t`). Wording "assigning multiple values **to a tuple**" → packing. Wording "assigning a tuple's values **to multiple variables**" would be unpacking. Source: Parker, Ch. 3 "Tuple Assignment"; Mohbey & Acharya "Tuple Assignment".
