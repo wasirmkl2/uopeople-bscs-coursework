@@ -432,6 +432,11 @@ Follow this process every time:
    say otherwise. See the voice-example notes in `student-profile-wasir.md` for this
    specific student's concrete before/after preferences.
 
+9. **Peer replies are never saved to the repo.** Draft them in chat only. Do not create a
+   file for them, do not commit or push them, and do not offer to save them. Only the
+   initial post or assignment gets saved. This is a standing preference confirmed by the
+   student, not a one-time instruction.
+
 ## 10. "Do I need more references?" — a standing question to answer, not assume
 **Scope: universal for any piece of writing that includes citations.**
 
