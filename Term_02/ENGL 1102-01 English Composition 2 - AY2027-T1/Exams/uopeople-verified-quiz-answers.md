@@ -1169,3 +1169,122 @@ readings — it was answered from standard APA knowledge.*
   the "feedback from peers" option (reads like an advantage), not "avoids the peer review process entirely".
 - Almost every question was a repeat from earlier units or from the Unit 6 self-quizzes, so the
   bank-first lookup handled most of the quiz.
+
+
+---
+
+## Unit 6 — GRADED QUIZ, second set (15/15 confirmed correct)
+
+*Sourcing note: Bloom's question from the Colorado College "Bloom's Revised Taxonomy" reading; accessible population / simple random sampling from the National University "Sampling Methods" reading; inferential statistics from Serdikoff Ch. 3 §16; SMART example from the CFI reading. The case-study limitation (Q8) and graph-labelling (Q15) answers rest on general research-methods/reporting knowledge, not a specific line in the readings.*
+
+**1. Which of the following best describes the difference between Basic and Applied research?**
+- Indistinguishable in psychology / Basic aims to understand behaviour in detail without addressing specific problems, applied seeks to address practical issues / Basic solves practical problems, applied is theoretical / Basic is always theoretical, applied is experimental.
+
+**Answer: Basic research aims to understand behaviour in detail without addressing specific problems, while applied research seeks to address practical issues.** — CONFIRMED CORRECT
+
+---
+
+**2. You are evaluating a research paper. What level of Bloom's Revised Taxonomy are you demonstrating when you assess the quality of arguments presented in the paper?**
+- Analyse. / Evaluate. / Create. / Remember.
+
+**Answer: Evaluate.** — CONFIRMED CORRECT
+*Evaluate = make judgments based on criteria and standards ("assess" is one of its verbs). Analyse = break material into parts and relate them.*
+
+---
+
+**3. Which of the following is an example of basic research?**
+
+**Answer: Understanding sex differences in talkativeness.** — CONFIRMED CORRECT (repeat of Unit 4 Q10)
+
+---
+
+**4. Which question would be most appropriate for ensuring a goal is "achievable"?**
+
+**Answer: Do I have the resources and capabilities to achieve the goal?** — CONFIRMED CORRECT (repeat of Unit 4 Q4)
+
+---
+
+**5. Which of the following is an example of a SMART goal?**
+- I plan to exercise more. / I hope to be more productive. / I want to improve my health. / I will obtain a gym membership and workout 4 days a week to lose weight.
+
+**Answer: I will obtain a gym membership and workout 4 days a week to lose weight.** — CONFIRMED CORRECT
+*The CFI reading's own specific/measurable example; the others are vague.*
+
+---
+
+**6. Which of the following is true about simple random sampling?**
+
+**Answer: It assumes that all members of the population are accessible.** — CONFIRMED CORRECT (repeat of Unit 6 graded quiz Q8)
+
+---
+
+**7. What is the term for a subset of the target population that can reasonably be accessed by the researcher for sampling?**
+- Cluster population. / Accessible population. / Sampling frame. / Simple random sample.
+
+**Answer: Accessible population.** — CONFIRMED CORRECT
+*National University: the accessible population is the subset of the target population the researcher can reasonably reach. A sampling frame is a LIST of all members of the population.*
+
+---
+
+**8. Which of the following is a limitation of case studies?**
+- They provide insights into rare conditions that are difficult to study otherwise. / They are exclusively quantitative in nature. / They lack proper controls, limiting their internal validity. / They allow researchers to generalize findings to larger populations.
+
+**Answer: They lack proper controls, limiting their internal validity.** — CONFIRMED CORRECT
+*The other options are an advantage, a false claim (case studies tend to be qualitative), and a false claim (they do not generalize well).*
+
+---
+
+**9. State whether the following statement is true or false: Case studies are the best method for determining causation due to their in-depth examination of individuals.**
+
+**Answer: False** — CONFIRMED CORRECT
+
+---
+
+**10. Match: Case study / Semi-structured interview / Focus groups / Structured interview** (descriptions a–d in the order: small groups discussing a topic; detailed analysis of an individual or rare condition; flexible interview with consistent questions and follow-ups; strict script)
+
+**Answer: 1-b, 2-c, 3-a, 4-d** — CONFIRMED CORRECT (repeat of Unit 6 graded quiz Q10)
+
+---
+
+**11. What is the best way to ensure the accuracy of information presented in a report?**
+
+**Answer: Cite all sources appropriately.** — CONFIRMED CORRECT
+
+---
+
+**12. Which of the following is a potential disadvantage of presenting research at a conference before publishing it in a journal?**
+
+**Answer: It allows for feedback from peers to improve the research.** — CONFIRMED CORRECT (this confirms the corrected key from the previous graded quiz's Q11; the "avoids the peer review process entirely" option is WRONG)
+
+---
+
+**13. State whether the following is true or false: A negative correlation between two variables indicates that as one variable increases, the other variable also increases.**
+
+**Answer: False** — CONFIRMED CORRECT
+
+---
+
+**14. State whether the following is true or false: Inferential statistics allow researchers to generalize findings from a sample to the entire population.**
+- False / True
+
+**Answer: True** — CONFIRMED CORRECT
+*Serdikoff Ch. 3 §16: inferential statistics let researchers draw conclusions about a population from sample data.*
+
+---
+
+**15. A student is writing a report on the impact of social media on adolescent mental health and wants to include a graph of social media usage vs. anxiety levels. What is the most crucial aspect of presenting this graph?**
+- Making the graph as large as possible. / Clearly labelling all the axes and data points. / Using a 3D effect to enhance the visual impact. / Using a visually appealing colour scheme.
+
+**Answer: Clearly labelling all the axes and data points.** — CONFIRMED CORRECT
+*The other options are cosmetic; clarity of labelling is what makes a graph interpretable.*
+
+---
+
+## Unit 6 — overall running notes
+
+- **Unit 6 totals:** self-quizzes 10/10, graded quiz #1 14/15, graded quiz #2 15/15.
+- The question pool is small and repeats heavily across sets (basic vs. applied, SMART goals, simple
+  random sampling, case studies, negative correlation, "scientific proof", report purpose), so
+  look these up in the bank first.
+- **Conference-presentation "disadvantage" question → the key is "It allows for feedback from peers to
+  improve the research."** Confirmed twice (wrong on the first attempt with the other option, correct on the second).
