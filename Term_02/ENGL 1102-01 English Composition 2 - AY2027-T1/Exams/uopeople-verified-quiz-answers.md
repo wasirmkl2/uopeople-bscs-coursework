@@ -927,3 +927,122 @@ were not re-checked line by line.*
      vs. non-numerical, small in-depth vs. large broad). Check which side each descriptor
      belongs to before choosing.
   3. **"Without the need for supporting evidence" about persuasive writing → False.**
+
+
+---
+
+## Unit 6
+
+Two self-quiz sets (5 questions each). All 10 answers CONFIRMED CORRECT. *Sourcing note: Serdikoff
+Ch. 3 (Sections 16–17) was checked directly for the correlation, scatterplot, reporting-methods and
+"scientific proof" questions; the Boise State "Guidelines for Reports" reading was used for the
+executive summary. The APA heading-level question (Set 1 Q3) is NOT covered in the assigned
+readings — it was answered from standard APA knowledge.*
+
+### Set 1
+
+**1. What is the primary purpose of using headings in a report?**
+- To increase the page count / To make the report look more visually appealing / To impress the instructor / To improve the readability and organization of the report.
+
+**Answer: To improve the readability and organization of the report.** — CONFIRMED CORRECT
+
+---
+
+**2. State whether the following statement is true or false: A negative correlation between two variables indicates that as one variable increases, the other variable also increases.**
+- True
+- False
+
+**Answer: False** — CONFIRMED CORRECT
+*Source: Serdikoff, Ch. 3 — a negative relationship means higher scores on one variable go with lower scores on the other (they move in opposite directions). A positive relationship is the one where both move in the same direction.*
+
+---
+
+**3. Heading Level 2 is characterized by ___**
+- Indented, boldface, lowercase paragraph heading ending with a period.
+- Flush left, boldface, uppercase and lowercase.
+- Centred, boldface, uppercase and lowercase.
+- Centred, italicized, lowercase paragraph heading ending with a period.
+
+**Answer: Flush left, boldface, uppercase and lowercase** — CONFIRMED CORRECT
+*Source: standard APA heading levels (outside the assigned readings). Level 1 = centred, bold, title case; Level 2 = flush left, bold, title case; Levels 3–5 are indented/italic paragraph-style headings ending with a period. The two "paragraph heading ending with a period" options and the "centred" option are other levels.*
+
+---
+
+**4. What type of graph is commonly used to display the relationship between two quantitative variables?**
+- Histogram / Frequency Polygon / Bar graph / Scatterplot.
+
+**Answer: Scatterplot.** — CONFIRMED CORRECT
+*Source: Serdikoff, Ch. 3, Section 16 — a scatterplot visually represents the association between two quantitative variables; bar/line graphs compare group summaries; histograms and frequency polygons show a single distribution.*
+
+---
+
+**5. Match the element with its description: 1. Executive Summary 2. Abstract 3. Introduction. Descriptions: a. Condensed overview of 250 words or less. b. Brief overview to summarize key points of a report. c. Presents the problem background, purpose and scope.**
+- 1-c, 2-b, 3-a
+- 1-a, 2-c, 3-b
+- 1-b, 2-a, 3-c
+- 1-a, 2-b, 3-c
+
+**Answer: 1-b, 2-a, 3-c** — CONFIRMED CORRECT
+***Trap note:** the "250 words or less" description belongs to the ABSTRACT, not the executive summary. The Boise State reading describes an executive summary as a standalone overview of the whole report (about 10–15% of its length, written last) with no 250-word cap.*
+
+---
+
+### Set 2
+
+**1. What is the best way to ensure the accuracy of information presented in a report?**
+- Rely solely on online sources / Summarize information without providing specific details / Avoid using any external sources / Cite all sources appropriately.
+
+**Answer: Cite all sources appropriately.** — CONFIRMED CORRECT
+
+---
+
+**2. Match the reporting methods with their descriptions: 1. Peer reviewed journal article 2. Conference presentation 3. Book chapter 4. Poster presentation. Descriptions: a. Summarizes a study visually and allows for informal discussions. b. The most prestigious way to share findings, following strict formatting guidelines. c. A written piece included in an edited book, which may or may not undergo peer review. d. Involves presenting findings orally to an audience of peers.**
+- 1-a, 2-c, 3-b, 4-d
+- 1-a, 2-b, 3-d, 4-c
+- 1-d, 2-b, 3-c, 4-a
+- 1-b, 2-d, 3-c, 4-a
+
+**Answer: 1-b, 2-d, 3-c, 4-a** — CONFIRMED CORRECT
+*Source: Serdikoff, Ch. 3, Section 17 — peer-reviewed journal = most prestigious; conference oral presentation = talk to fellow scientists; book chapter = edited book, peer review not always applied; poster = study summarized on a large board, presenter discusses it with passers-by.*
+
+---
+
+**3. Which of the following best describes the purpose of a report?**
+- To express personal opinions / To persuade the reader to agree with the author / To present information in a clear, concise and organized manner / To entertain the reader.
+
+**Answer: To present information in a clear, concise and organized manner.** — CONFIRMED CORRECT (reappears as graded Q12 with reordered options)
+
+---
+
+**4. Which of the following best describes why scientists avoid the term "scientific proof"?**
+- Because journals discourage the term.
+- To prevent disagreements in the scientific community.
+- Because type I or type II errors might occur in the study.
+- To maintain modesty in their findings.
+
+**Answer: Because type I or type II errors might occur in the study.** — CONFIRMED CORRECT
+*Source: Serdikoff, Ch. 3, Section 17 — statistics are probabilistic and findings can reflect type I or type II errors, and all studies have flaws, so "there is no such thing as scientific proof, only scientific evidence."*
+
+---
+
+**5. State whether the following statement is true or false: Scientists often use the term 'scientific proof' when discussing their theories.**
+- True
+- False
+
+**Answer: False** — CONFIRMED CORRECT
+*Same source as Q4 above.*
+
+---
+
+## Unit 6 — running notes
+
+- **Self-quizzes: 2 sets, 10/10 confirmed correct.**
+- New Unit 6 topics: report writing (headings, APA heading levels, executive summary vs. abstract vs.
+  introduction), correlation direction, graph types, ways of reporting research (journal article,
+  conference talk, poster, book chapter), and why scientists avoid "scientific proof".
+- **Traps to carry forward:**
+  1. **Abstract vs. executive summary:** the "250 words or less / condensed" description goes with the
+     abstract.
+  2. **APA heading levels:** Level 2 = flush left + bold + title case. Do not confuse with Level 1
+     (centred) or the indented paragraph-style Levels 3–5.
+  3. **"Scientific proof" statements:** scientists avoid the term → "True, scientists often use it" is False.
