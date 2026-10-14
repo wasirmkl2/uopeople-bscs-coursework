@@ -1046,3 +1046,126 @@ readings — it was answered from standard APA knowledge.*
   2. **APA heading levels:** Level 2 = flush left + bold + title case. Do not confuse with Level 1
      (centred) or the indented paragraph-style Levels 3–5.
   3. **"Scientific proof" statements:** scientists avoid the term → "True, scientists often use it" is False.
+
+
+---
+
+## Unit 6 — GRADED QUIZ (14/15: 14 confirmed correct, 1 confirmed wrong)
+
+*Sourcing note: Serdikoff Ch. 3 §17 (scientific proof, problem of induction, reporting methods), Ch. 7 (interview types), the CFI "SMART Goals" reading, the National University "Sampling Methods" reading and Weaver et al. §3.8 Persuasion (concessions) were checked directly. The APA running-head question is not covered in the readings (standard APA/word-processor practice).*
+
+**1. State whether the following statement is true or false: The primary goal of scientific research is to explain behaviour without focusing on practical applications.**
+- False / True
+
+**Answer: False** — CONFIRMED CORRECT (same question as Unit 4 self-quiz Q6)
+
+---
+
+**2. A SMART goal must be ____, ____, ____, ____ and ____ to ensure it has a greater chance of being achieved.**
+- Specific, Measurable, Achievable, Realistic and Time-Bound. / Vague, Measurable, Unachievable, Time bound, Specific. / Measurable, Abstract, Achievable, Timely, Uncertain. / Specific, Definite, Achievable, Ambiguous, Timely.
+
+**Answer: Specific, Measurable, Achievable, Realistic and Time-Bound.** — CONFIRMED CORRECT
+*CFI: Specific, Measurable, Achievable, Realistic, Timely. The course uses "Realistic" for the R.*
+
+---
+
+**3. What distinguishes applied research from basic research?**
+- Applied research aims to address practical problems, while basic research focuses on theoretical understanding. (correct) / Basic = experimental, applied = observational / No distinction / Applied always leads to new laws.
+
+**Answer: Applied research aims to address practical problems, while basic research focuses on theoretical understanding.** — CONFIRMED CORRECT
+
+---
+
+**4. Research objectives should be specific, ____, achievable, relevant and ____ to ensure the success of the research project.**
+- Measurable, Time-based. / Unclear, Flexible. / Ambiguous, Flexible. / Broad, Timeless.
+
+**Answer: Measurable, Time-based.** — CONFIRMED CORRECT
+
+---
+
+**5. What is the main purpose of making a goal timely?**
+- To provide a clear start and finish date. / To break the goal into smaller tasks. / To make the goal more specific. / To ensure the goal is measurable.
+
+**Answer: To provide a clear start and finish date.** — CONFIRMED CORRECT
+*CFI: a timely goal has a start date and a target/finish date, which creates urgency.*
+
+---
+
+**6. Hetet is writing a persuasive essay advocating for renewable energy. He decides to acknowledge the opposing view that renewable energy sources can be expensive initially. What is the benefit of addressing this opposing view early in his essay?**
+
+**Answer: It builds credibility with the audience by showing awareness of differing opinions.** — CONFIRMED CORRECT (also Unit 5 Set 1 Q2)
+
+---
+
+**7. Which of the following statements is an example of a concession in writing?**
+- Although smoking is harmful, it is difficult to quit without support. / There are many arguments against smoking, but they are invalid. / I believe smoking is bad, but others might not agree. / Smoking is bad and there is no reason to think otherwise.
+
+**Answer: Although smoking is harmful, it is difficult to quit without support.** — CONFIRMED CORRECT
+*Weaver et al. §3.8: a concession admits the limits of your own argument, modelled as "Although [your point], [its limit]", with "although" first in the table of concession phrases. The "I believe …" option uses "I", which the reading discourages, and concedes no limit.*
+
+---
+
+**8. Which of the following is true about simple random sampling?**
+- It is a non-probability sampling method. / It is not suitable for large populations. / It assumes that all members of the population are accessible. / It is always biased, even with random selection.
+
+**Answer: It assumes that all members of the population are accessible.** — CONFIRMED CORRECT
+*National University, Sampling Methods reading.*
+
+---
+
+**9. What is the primary purpose of a persuasive message?**
+
+**Answer: To intrigue, inform, convince, or call the audience to action.** — CONFIRMED CORRECT (also Unit 5 Set 1 Q1)
+
+---
+
+**10. Match: 1. Case study 2. Semi-structured interview 3. Focus groups 4. Structured interview. Descriptions: a. Small groups discussing a specific topic to gather qualitative data. b. Detailed analysis of an individual or rare condition. c. Flexible interview style with consistent questions and follow-ups. d. A strict interview script without deviation.**
+- 1-d, 2-b, 3-c, 4-a / 1-a, 2-c, 3-b, 4-d / 1-b, 2-d, 3-a, 4-c / 1-b, 2-c, 3-a, 4-d
+
+**Answer: 1-b, 2-c, 3-a, 4-d** — CONFIRMED CORRECT
+*Serdikoff Ch. 7: semi-structured = a few consistent questions plus follow-ups; structured = strict script; focus groups = small groups on a topic; case study = in-depth analysis of one individual.*
+
+---
+
+**11. Which of the following is a potential disadvantage of presenting research at a conference before publishing it in a journal?**
+- It allows for feedback from peers to improve the research. / It ensures immediate recognition and awards. / It avoids the peer review process entirely. / It guarantees the research will be accepted for publication.
+
+**Answer: It avoids the peer review process entirely.** — CONFIRMED WRONG for the option the user actually selected (the user's selection was not recorded); the quiz key is **"It avoids the peer review process entirely."**
+***Trap note:** this matches the earlier reasoned answer, but the textbook only says conference peer review is "not as rigorous" as journal review — it doesn't say it is skipped. The key rewards the "avoids peer review" option anyway. The other three options are advantages or false claims. Pick this one whenever the "disadvantage of presenting at a conference" question reappears.*
+
+---
+
+**12. Which of the following best describes the purpose of a report?**
+
+**Answer: To present information in a clear, concise and organized manner.** — CONFIRMED CORRECT (also Unit 6 Set 2 Q3)
+
+---
+
+**13. For a report in APA style, what is the preferred method for creating a running head?**
+- Adding it only to the title page. / Typing it manually on every page. / Using the automatic header function in a word processor. / Placing it in the footer section of each page.
+
+**Answer: Using the automatic header function in a word processor.** — CONFIRMED CORRECT
+*Not in the readings (Serdikoff only says the running head sits in the page header). Standard APA/word-processor practice.*
+
+---
+
+**14. What is the philosophical issue associated with proving general principles based on observations?**
+- Logical fallacy. / Problem of induction. / Confirmation bias. / Occam's Razor.
+
+**Answer: Problem of induction.** — CONFIRMED CORRECT
+*Serdikoff Ch. 3 §17: you cannot definitively prove a general principle ("all swans are white") by observing confirming cases, however many.*
+
+---
+
+**15. State whether the following statement is true or false: A negative correlation between two variables indicates that as one variable increases, the other variable also increases.**
+
+**Answer: False** — CONFIRMED CORRECT (also Unit 6 Set 1 Q2)
+
+---
+
+## Unit 6 — GRADED QUIZ running notes
+
+- **Score: 14/15.** The only miss was the conference-presentation "disadvantage" question, which is
+  worded loosely and keyed to "It avoids the peer review process entirely."
+- Almost every question was a repeat from earlier units or from the Unit 6 self-quizzes, so the
+  bank-first lookup handled most of the quiz.
