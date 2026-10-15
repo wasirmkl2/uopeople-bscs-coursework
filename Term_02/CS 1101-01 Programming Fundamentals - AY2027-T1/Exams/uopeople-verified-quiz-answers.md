@@ -139,3 +139,24 @@ All 5/5 confirmed correct. Key reasoning:
 - **Tuple indexing uses square brackets** — `t[0]`. Round brackets would be a call, curly braces a syntax error, `t.0` invalid.
 - **Tuples are immutable:** item assignment raises `TypeError: 'tuple' object does not support item assignment`. `len(t)`, `t[0]`, and `t + (4,5)` (builds a *new* tuple `(1, 2, 3, 4, 5)`) all work.
 - **Packing vs unpacking (Q5 trap):** *packing* = putting several values INTO a tuple (`atoms = ("Hydrogen", 1, "Helium", 2)`); *unpacking* = pulling a tuple's values OUT into separate variables (`a, b, c = t`). Wording "assigning multiple values **to a tuple**" → packing. Wording "assigning a tuple's values **to multiple variables**" would be unpacking. Source: Parker, Ch. 3 "Tuple Assignment"; Mohbey & Acharya "Tuple Assignment".
+
+
+## Attempt 7 — Unit 6 self-quiz: dictionaries & sets (5 q)
+
+**Score: 5/5 — all CONFIRMED CORRECT by user.**
+
+| # | Question (topic) | Answer given | Result |
+|---|---|---|---|
+| 1 | Result of `len({'a':1, 'b':2, 'a':3})` (2 / 3 / Error: Duplicate key / 1) | 2 | CONFIRMED CORRECT |
+| 2 | Output of `print(set('aba'))` (`{'a','b'}` / `{'a','b','a'}` / `{'aba'}` / `{'b','a'}`) | `{'a','b'}` | CONFIRMED CORRECT |
+| 3 | Output of `print(sorted({'c':3,'a':1,'B':2}.keys()))` | `['B','a','c']` | CONFIRMED CORRECT |
+| 4 | Both `s1=set()` and `s2={}` create an empty set. (True/False) | False | CONFIRMED CORRECT |
+| 5 | Output of `d = {'a':1, 'b':2}; d['a'] += d['b']; print(d)` | `{'a':3, 'b':2}` | CONFIRMED CORRECT |
+
+### Key reasoning / reusable notes
+
+- **Duplicate keys in a dict literal (Q1):** no error — the later value overwrites the earlier one, so `{'a':1,'b':2,'a':3}` becomes `{'a':3,'b':2}` and `len()` is `2`. Verified by execution.
+- **Sets drop duplicates (Q2 trap):** `set('aba')` has the two elements `a` and `b`. Set display order is not guaranteed, so both `{'a','b'}` and `{'b','a'}` are the same set; the option confirmed correct was `{'a','b'}` (Python 3 prints `{'a', 'b'}` here). Not `{'a','b','a'}` (duplicates) or `{'aba'}` (that would be a one-element set holding the string).
+- **Sorting is by character code (Q3):** uppercase letters sort before lowercase (`'B'`=66 < `'a'`=97 < `'c'`=99), so `['B','a','c']`. Keys here are all strings, so they are sortable; `sorted()` returns a list.
+- **Empty set vs empty dict (Q4 trap):** `{}` creates an empty **dict**; an empty set must be made with `set()`. Verified: `type({})` → `dict`, `type(set())` → `set`.
+- **Augmented assignment on a dict value (Q5):** `d['a'] += d['b']` → `d['a'] = 1 + 2 = 3`; `'b'` unchanged. Dict *values* are mutable and can be reassigned; only dict *keys* must be immutable/hashable.
