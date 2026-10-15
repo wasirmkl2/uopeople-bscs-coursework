@@ -160,3 +160,41 @@ All 5/5 confirmed correct. Key reasoning:
 - **Sorting is by character code (Q3):** uppercase letters sort before lowercase (`'B'`=66 < `'a'`=97 < `'c'`=99), so `['B','a','c']`. Keys here are all strings, so they are sortable; `sorted()` returns a list.
 - **Empty set vs empty dict (Q4 trap):** `{}` creates an empty **dict**; an empty set must be made with `set()`. Verified: `type({})` → `dict`, `type(set())` → `set`.
 - **Augmented assignment on a dict value (Q5):** `d['a'] += d['b']` → `d['a'] = 1 + 2 = 3`; `'b'` unchanged. Dict *values* are mutable and can be reassigned; only dict *keys* must be immutable/hashable.
+
+
+## Attempt 8 — Quiz: lists, tuples, dictionaries, functions & scope review (15 q)
+
+**Score: 15/15 — all CONFIRMED CORRECT by user.**
+
+| # | Question (topic) | Answer given | Result |
+|---|---|---|---|
+| 1 | In `nums = [10,20,30,40,50]`, what is `nums[2]`? (10 / 20 / 30 / 40) | 30 | CONFIRMED CORRECT |
+| 2 | Once created, a tuple's elements can be modified. (True/False) | False | CONFIRMED CORRECT |
+| 3 | Which operation will cause an error? (`t = (1,2,3); t[1]=4` / `len(t)` / `t[0]` / `t+(4,5)`) | `t = (1,2,3); t[1]=4` | CONFIRMED CORRECT |
+| 4 | `my_list[1:-1]` excludes the first and last element. (True/False) | True | CONFIRMED CORRECT |
+| 5 | List method that counts occurrences of an element (find() / count() / search() / index()) | count() | CONFIRMED CORRECT |
+| 6 | Which statement accurately describes dict keys? | Keys must be immutable (e.g., strings, tuples, numbers) and unique within the dictionary | CONFIRMED CORRECT |
+| 7 | Output of `d = {'a':1}; print(d.pop('b', 5))` (1 / None / Error / 5) | 5 | CONFIRMED CORRECT |
+| 8 | `d = {'a':1}; 'a' in d.values()` returns? (True / False / None / Syntax Error) | False | CONFIRMED CORRECT |
+| 9 | Create a dict from `['x','y']` and `[1,2]` with keys as 1 and 2 | `dict(zip([1,2],['x','y']))` | CONFIRMED CORRECT |
+| 10 | Result of `len({'a':1, 'b':2, 'a':3})` (2 / 3 / Error: Duplicate key / 1) | 2 | CONFIRMED CORRECT |
+| 11 | Which of the following prevents shadowing effectively? (global everywhere / ignoring scope / consistent naming conventions / avoiding functions) | Using consistent naming conventions | CONFIRMED CORRECT |
+| 12 | Lambda functions can have multiple expressions. (True/False) | False | CONFIRMED CORRECT |
+| 13 | Argument type that provides default values when not passed (positional / keyword / default / variable-length) | Default argument | CONFIRMED CORRECT |
+| 14 | Output of nested `outer()`/`inner()` with `x = 50 / 20 / 10` (10 20 50 / 50 20 10 / 10 10 10 / 20 20 20) | 10 20 50 | CONFIRMED CORRECT |
+| 15 | Variable shadowing occurs when: | A local variable hides a global variable of the same name | CONFIRMED CORRECT |
+
+### Key reasoning / reusable notes
+
+- **Repeat questions:** Q1, Q3 (Attempt 6), Q10 (Attempt 7) and Q14 (Attempt 5) were exact repeats of earlier confirmed entries — the bank-first lookup was right; trust them if they reappear.
+- **Tuples are immutable (Q2, Q3):** item assignment raises `TypeError`; `t + (4,5)` just builds a new tuple.
+- **Slicing (Q4):** `my_list[1:-1]` starts at index 1 and stops *before* the last element, so first and last are excluded (`[1,2,3,4,5][1:-1]` → `[2,3,4]`).
+- **`count()` (Q5):** counts occurrences of a value; `index()` returns a position; lists have no `find()` or `search()`.
+- **Dict keys (Q6):** must be immutable/hashable and unique. A list key raises `TypeError: unhashable type: 'list'`. Keys are not limited to strings. Source: Mohbey & Acharya, Tuples and Dictionaries chapter.
+- **`dict.pop(key, default)` (Q7):** returns the default when the key is missing instead of raising `KeyError`.
+- **`in d.values()` (Q8 trap):** checks *values*, not keys. `'a' in d.values()` is False for `{'a':1}`, while `'a' in d` (keys) would be True.
+- **`dict(zip(keys, values))` (Q9):** the first list becomes the keys. `zip([1,2],['x','y'])` → `{1:'x', 2:'y'}`. Option `dict([('x','y'),(1,2)])` gives `{'x':'y', 1:2}`; `dict({'x':1,'y':2})` has string keys; `{'x','y':[1,2]}` is a `SyntaxError`.
+- **Shadowing prevention (Q11):** the Unit 4 reading (Bencini, "Variable shadowing in Python") recommends clear variable names and understanding scope boundaries — "consistent naming conventions" was the confirmed key answer. `global` everywhere makes shadowing/scope bugs worse.
+- **Lambda (Q12):** any number of arguments but only ONE expression. Source: Mohbey & Acharya, Functions chapter.
+- **Default argument (Q13):** a parameter given a value with `=` in the `def` (`def f(a, b=10)`); used when the caller omits it.
+- **Shadowing (Q14, Q15):** a local variable with the same name as an outer/global one hides it inside that scope without changing the outer one. Prints go innermost first: `10 20 50`.
