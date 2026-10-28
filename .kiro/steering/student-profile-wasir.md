@@ -16,7 +16,8 @@ directory.
 - **Term 1 start date:** June 18
 - **Term structure:** Every term consists of 9 units; each unit is 1 week long.
 - **Current progress:** Term 1 is COMPLETE with final grades posted (see table below).
-  Term 2 (AY2027-T1) is now in progress — Unit 1 is currently running.
+  Term 2 (AY2027-T1) is in progress — currently at Unit 8 (the ENGL 1102-01 compiled research
+  paper is due Oct 29, 2026 on the portal; title-page date Oct 28, 2026).
 
 ## Term 1 Courses (AY2026-T5) — COMPLETED, grades posted
 
@@ -25,7 +26,7 @@ directory.
 | Introduction to Computer Science (Elective) | CS 1111 | Mohamadou Bassirou Jean-Baptiste Sanfo | 3 | 98 / A+ |
 | Online Education Strategies for Non-Native English Speakers (Required) | UNIV 1002 | Mustapha Kammouss | 3 | 100 / A+ |
 
-## Term 2 Courses (AY2027-T1) — IN PROGRESS (Unit 1 running)
+## Term 2 Courses (AY2027-T1) — IN PROGRESS (Unit 8)
 
 | Course | Instructor |
 |---|---|
